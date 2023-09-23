@@ -1,3 +1,4 @@
 chair.png: https://icons8.com/icon/FCxgxtDGYxWr/gaming-chair
 banner template: https://www.canva.com/p/templates/EAE2cQaUHVA-black-minimal-motivation-quote-linkedin-banner/
-
+chair image 1 url: https://www.staples-3p.com/s7/is/image/Staples/8CE75973-2680-47F2-B0441AAB0CF4E1F3_sc7?wid=512&hei=512
+chair image 2 url: https://cb.scene7.com/is/image/Crate/RoanWoodOfficeChairSOSSS21/$web_pdp_main_carousel_med$/200930110649/roan-wood-office-chair.jpg
