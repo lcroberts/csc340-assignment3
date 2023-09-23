@@ -3,3 +3,4 @@ banner template: https://www.canva.com/p/templates/EAE2cQaUHVA-black-minimal-mot
 chair image 1 url: https://www.staples-3p.com/s7/is/image/Staples/8CE75973-2680-47F2-B0441AAB0CF4E1F3_sc7?wid=512&hei=512
 chair image 2 url: https://cb.scene7.com/is/image/Crate/RoanWoodOfficeChairSOSSS21/$web_pdp_main_carousel_med$/200930110649/roan-wood-office-chair.jpg
 We're hiring image: https://st2.depositphotos.com/1560768/6896/i/450/depositphotos_68960135-stock-photo-we-are-hiring-apply-now.jpg
+Welcoming stock image: https://media.istockphoto.com/id/1201798748/photo/woman-company-representative-holds-out-hand-for-handshake-welcoming-client.jpg?s=612x612&w=0&k=20&c=R3Nd_xyBxDld7canSlXL5P4fjmeLw0BxynONNJEzZ7M=
